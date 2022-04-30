@@ -27,13 +27,12 @@ Her ne kadar ufak ve pek iş görmez durumda olsada olan biteni anlatayım;
 <table>
   <tr>
     <th><img src="https://github.com/CCCinici/flutter-expenses/blob/main/screenshots/screenshot-1651288550688.jpg" data-canonical-src="https://github.com/CCCinici/flutter-expenses/blob/main/screenshots/screenshot-1651288550688.jpg" width="200" height="400" /></th>
-    <img src="https://github.com/CCCinici/flutter-expenses/blob/main/screenshots/screenshot-1651288557935.jpg " data-canonical-src="https://github.com/CCCinici/flutter-expenses/blob/main/screenshots/screenshot-1651288557935.jpg" width="200" height="400" />
-    <img src="(https://github.com/CCCinici/flutter-expenses/blob/main/screenshots/screenshot-1651288601303.jpg" data-canonical-src="(https://github.com/CCCinici/flutter-expenses/blob/main/screenshots/screenshot-1651288601303.jpg" width="200" height="400" />
-  </tr>
+   <th> <img src="https://github.com/CCCinici/flutter-expenses/blob/main/screenshots/screenshot-1651288557935.jpg " data-canonical-src="https://github.com/CCCinici/flutter-expenses/blob/main/screenshots/screenshot-1651288557935.jpg" width="200" height="400" /></th>
+   <th> <img src="(https://github.com/CCCinici/flutter-expenses/blob/main/screenshots/screenshot-1651288601303.jpg" data-canonical-src="(https://github.com/CCCinici/flutter-expenses/blob/main/screenshots/screenshot-1651288601303.jpg" width="200" height="400" /></th>
   <tr>
-    <img src="https://github.com/CCCinici/flutter-expenses/blob/main/screenshots/screenshot-1651288609456.jpg" data-canonical-src="https://github.com/CCCinici/flutter-expenses/blob/main/screenshots/screenshot-1651288609456.jpg" width="200" height="400" />
-    <img src="https://github.com/CCCinici/flutter-expenses/blob/main/screenshots/screenshot-1651288652963.jpg" data-canonical-src="https://github.com/CCCinici/flutter-expenses/blob/main/screenshots/screenshot-1651288652963.jpg" width="200" height="400" />
-    <img src="https://github.com/CCCinici/flutter-expenses/blob/main/screenshots/screenshot-1651288680848.jpg" data-canonical-src="https://github.com/CCCinici/flutter-expenses/blob/main/screenshots/screenshot-1651288680848.jpg" width="200" height="400" />
+  <th>  <img src="https://github.com/CCCinici/flutter-expenses/blob/main/screenshots/screenshot-1651288609456.jpg" data-canonical-src="https://github.com/CCCinici/flutter-expenses/blob/main/screenshots/screenshot-1651288609456.jpg" width="200" height="400" /></th>
+  <th>  <img src="https://github.com/CCCinici/flutter-expenses/blob/main/screenshots/screenshot-1651288652963.jpg" data-canonical-src="https://github.com/CCCinici/flutter-expenses/blob/main/screenshots/screenshot-1651288652963.jpg" width="200" height="400" /></th>
+  <th>  <img src="https://github.com/CCCinici/flutter-expenses/blob/main/screenshots/screenshot-1651288680848.jpg" data-canonical-src="https://github.com/CCCinici/flutter-expenses/blob/main/screenshots/screenshot-1651288680848.jpg" width="200" height="400" /></th>
   </tr>
 </table>
 
